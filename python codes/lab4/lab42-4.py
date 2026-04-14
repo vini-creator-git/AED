@@ -1,0 +1,5 @@
+missão = int(input("Qual o nívrelda missão?"))
+plr1 = int(input("Nivel do player1?"))
+plr2 = int(input("Nivel do player2?"))
+plr3 = int(input("Nivel do player3?"))
+print(plr1 >= missão and plr2 >= missão and plr3 >= missão)

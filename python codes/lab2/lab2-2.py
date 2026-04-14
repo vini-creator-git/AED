@@ -1,0 +1,14 @@
+num1=3
+num2=2
+soma=num1+num2
+menos=num1-num2
+mul=num1*num2
+div=num1/num2
+print(soma, 
+      type(soma), 
+      menos, 
+      type(menos), 
+      mul, 
+      type(mul), 
+      div, 
+      type(div)) 
