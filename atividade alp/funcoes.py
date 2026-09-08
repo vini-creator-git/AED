@@ -1,7 +1,8 @@
 def fatorial(numero):
     resultado = 1 
     for i in range(1, numero + 1): 
-        resultado *= i return resultado
+        resultado *= i 
+        return resultado
 
 def reajuste_salarial(salario, percentual): 
     novo_salario = salario + (salario * percentual / 100) 
